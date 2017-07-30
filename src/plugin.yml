@@ -1,0 +1,35 @@
+name: FruiTyPlusPlus
+main: com.gmail.tetrasheep.FruiTy
+version: 1.0
+description: Plugin designed to add more fun !
+author: TetraSheep
+
+commands:
+
+  fruit:
+    description: Command that make a explosion.
+    usage: Error ! Use /fruit instead !
+ 
+  juicy:
+    description: Command that make appear a red mushroom. Don't forget that you need to be on grass !
+    usage: Error ! Use /juicy instead ! 
+ 
+
+  setbenchmark:
+    description: Command that make a personal teleport point.
+    usage: Error ! Use /setbenchmark instead !
+
+
+  benchmark:
+    description: Command that teleport you to your benchmark.
+    usage: Error ! Use /benchmark instead !
+
+
+  style:
+    description: Command that make you crash (kick).
+    usage: Error ! Use /style instead ! 
+
+
+
+
+
