@@ -68,4 +68,11 @@ public class CommandBenchmark implements CommandExecutor{
 		return false;
 	}
 
+	@Override
+	public String toString() {
+		return "CommandBenchmark [fruity=" + fruity + "]";
+	}
+	
+	
+
 }
