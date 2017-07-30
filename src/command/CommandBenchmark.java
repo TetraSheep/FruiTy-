@@ -16,6 +16,10 @@ import com.gmail.tetrasheep.FruiTy;
 
 import net.md_5.bungee.api.ChatColor;
 
+/*
+ * 
+ */
+
 public class CommandBenchmark implements CommandExecutor{
 	
 	private FruiTy fruity;
